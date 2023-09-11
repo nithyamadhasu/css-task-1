@@ -1,0 +1,20 @@
+table{
+    background-color: rgb(1, 201, 201);
+    border-radius: 10px;
+
+}
+th{
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    border-radius: 10px;
+}
+td{
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+tr{
+    width: 30px;
+}
